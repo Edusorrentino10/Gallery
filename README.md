@@ -18,9 +18,9 @@ Para rodar o projeto, primeiro é necessário clonar o repositório e abrir em u
 
 ```bash
 # Clonar repositório
-$ git clone https://github.com/Edusorrentino10/Sistema-Financeiro.git
+$ git clone https://github.com/Edusorrentino10/gallery.git
 # Acessar pasta do projeto clonado
-$ cd SistemaFinanceiro
+$ cd gallery
 
 # Instalar dependências
 $ npm install
@@ -29,17 +29,10 @@ $ npm install
 $ npm start
 
 # Abrir aplicação na porta 3000, acessando: http://localhost:3000
-
-
-__________________________________________________
-
-
-# Caso dê erro de tipagem, executar em um novo terminal:
-$ npm install @types/styled-components
 ```
 
-<h2 align="center"><img src="./src/images/print-marco.png"></h2>
-<h2 align="center"><img src="./src/images/responsivo.png"></h2>
+<h2 align="center"><img src="./src/imagesREADME/noPhotos-print.png"></h2>
+<h2 align="center"><img src="./src/imagesREADME/photos-print.png"></h2>
 
 
 
